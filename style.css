@@ -1,0 +1,25 @@
+body{
+    background-size: cover;
+}
+
+a{
+    font-size: 40px;
+    background-color: burlywood;
+}
+
+.heading{
+    width: 100%;
+    font-size: 22px;
+    margin: 0;
+}
+
+.status{
+    font-size: 20px;
+}
+
+.back{
+    float: left;
+    background-color : black;
+    color:whitesmoke;
+    font-size: 10px;
+}
